@@ -55,7 +55,8 @@ Check out my portfolio at [danmathisen.com](https://danmathisen.com/)
     - Website: [hitarea.danmathisen.com](https://hitarea.danmathisen.com/)
     - Repo: [github.com/dmathisen/HitAreaJS](https://github.com/dmathisen/HitAreaJS)
   * Lightbase CSS
-    - Lightweight %-based responsive CSS framework, allowing for CSS grids with IE7+ support (created before the times Bootstrap).
+    - Lightweight %-based responsive CSS framework, allowing for CSS grids with IE7+ support
+    - Created before the times Bootstrap
     - CSS
     - Website: [lightbase.danmathisen.com](https://lightbase.danmathisen.com/)
     - Repo: [github.com/dmathisen/LightbaseCSS](https://github.com/dmathisen/LightbaseCSS)
