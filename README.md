@@ -12,9 +12,9 @@
 
 ---
     
-### What I enjoy:
-- Designing and building things
-- Working with current technologies (React is my most recent favorite)
+### I enjoy:
+- Designing and building websites and applications
+- Working with the latest technologies (React is my most recent favorite)
 - Focusing on UI and UX
 - Family & friends
 - Concerts (RIP 😢)
@@ -35,7 +35,7 @@
     - Website: [danmathisen.com](https://danmathisen.com/)
     - Repo: [github.com/dmathisen/Portfolio](https://github.com/dmathisen/Portfolio)
 * **Pintmeisters**
-    - Co-founder of organization that hosted events, all proceeds donated to local charities
+    - Co-founder of organization that hosted social events, all proceeds of which were donated to local charities
     - PHP, SQL, Design (created logo, business cards, marketing materials), Admin backend
     - Website: [pintmeisters.com](https://pintmeisters.com/)
 * **WhoWeUse**
@@ -62,6 +62,7 @@
     - Repo: [github.com/dmathisen/BudgetPlanner](https://github.com/dmathisen/BudgetPlanner)
 * **Alex Eating Pancakes**
     - Silly website I built to help facilitate a pancake eating contest
+    - Website included live-streamed event and real-time progress tracking (updated via admin screen)
     - HTML, PHP, SQL, Admin backend
     - Website: [alexeatingpancakes.com](https://alexeatingpancakes.com/)
 * **HitArea.js**
