@@ -1,7 +1,14 @@
 
 ## Hello, I'm Dan Mathisen - a full-stack web application developer.
 
-Check out my portfolio at [danmathisen.com](https://danmathisen.com/)
+**Check out my portfolio at [danmathisen.com](https://danmathisen.com/)**
+
+### Find me:
+- [My Portfolio](https://danmathisen.com/)
+- [My Resume](https://danmathisen.com/dan-mathisen-resume.pdf)
+- [LinkedIn](https://www.linkedin.com/in/danmathisen/)
+- [Stack Overflow](https://stackoverflow.com/users/1308734/dmathisen)
+- [Twitter](https://twitter.com/dmathisen36)
 
 ---
     
@@ -11,15 +18,6 @@ Check out my portfolio at [danmathisen.com](https://danmathisen.com/)
 - Focusing on UI and UX
 - Family & friends
 - Concerts (RIP 😢)
-
----
-
-### Find me:
-- [My Portfolio](https://danmathisen.com/)
-- [My Resume](https://danmathisen.com/dan-mathisen-resume.pdf)
-- [LinkedIn](https://www.linkedin.com/in/danmathisen/)
-- [Stack Overflow](https://stackoverflow.com/users/1308734/dmathisen)
-- [Twitter](https://twitter.com/dmathisen36)
 
 ---
 
