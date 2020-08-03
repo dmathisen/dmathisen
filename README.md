@@ -28,36 +28,45 @@ Check out my portfolio at [danmathisen.com](https://danmathisen.com/)
     - Node, React (Gatsby), Materialize, GraphQL, Webpack
     - Website: [danmathisen.com](https://danmathisen.com/)
     - Repo: [github.com/dmathisen/Portfolio](https://github.com/dmathisen/Portfolio)
- * **Pintmeisters**
+* **Pintmeisters**
     - Co-founder of organization that hosted events, all proceeds donated to local charities
-    - PHP, SQL, Design (created logo, business cards, marketing materials)
+    - PHP, SQL, Design (created logo, business cards, marketing materials), Admin backend
     - Website: [pintmeisters.com](https://pintmeisters.com/)
-    - Repo: [github.com/dmathisen/Pintmeisters](https://github.com/dmathisen/Pintmeisters)
 * **WhoWeUse**
     - A startup I've helped build out that connects people to local businesses
     - Node, Javascript, PHP, MongoDB
     - Website: [whoweuse.com](https://whoweuse.com/)
-    - Repo: [private]
- * **Alex Eating Pancakes**
-    - Silly website I built to help facilitate a pancake eating contest
-    - HTML, PHP, SQL, backend admin
-    - Website: [alexeatingpancakes.com](https://alexeatingpancakes.com/)
-    - Repo: [github.com/dmathisen/AlexEatingPancakes](https://github.com/dmathisen/AlexEatingPancakes)
- * **Speffer**
+* **Speffer**
     - Set up personalized search engine results
     - Created to learn React & Next.js
-    - React (Next.js)
+    - Node, React (Next.js)
     - Website: [speffer.danmathisen.com](https://speffer.danmathisen.com/)
-    - Repo: [github.com/dmathisen/Speffer](https://github.com/dmathisen/Speffer)
- * **HitArea.js**
+    - Repo: [github.com/dmathisen/Speffer](https://github.com/dmathisen/activity-finder)
+* **Activity Finder**
+    - Find an activity for when you're bored
+    - Created to practice React, calling external APIs
+    - Node, React
+    - Website: [activityfinder.danmathisen.com](https://activityfinder.danmathisen.com/)
+    - Repo: [github.com/dmathisen/ActivityFinder](https://github.com/dmathisen/ActivityFinder)
+* **Budget Planner**
+    - Simple paycheck contribution budget planner
+    - Created to practice React, implements Google OAuth login
+    - Node, React
+    - Website: [budgetplanner.danmathisen.com](https://budgetplanner.danmathisen.com/)
+    - Repo: [github.com/dmathisen/BudgetPlanner](https://github.com/dmathisen/BudgetPlanner)
+* **Alex Eating Pancakes**
+    - Silly website I built to help facilitate a pancake eating contest
+    - HTML, PHP, SQL, Admin backend
+    - Website: [alexeatingpancakes.com](https://alexeatingpancakes.com/)
+* **HitArea.js**
     - Apply a 'Hit Area' to any element
     - Created to learn how to make jQuery plugins
     - Javascript (jQuery)
     - Website: [hitarea.danmathisen.com](https://hitarea.danmathisen.com/)
     - Repo: [github.com/dmathisen/HitAreaJS](https://github.com/dmathisen/HitAreaJS)
-  * **Lightbase CSS**
+* **Lightbase CSS**
     - Lightweight %-based responsive CSS framework, allowing for CSS grids with IE7+ support
-    - Created before the times Bootstrap
+    - Created before the times Bootstrap (this thing is VERY old)
     - CSS
     - Website: [lightbase.danmathisen.com](https://lightbase.danmathisen.com/)
     - Repo: [github.com/dmathisen/LightbaseCSS](https://github.com/dmathisen/LightbaseCSS)
