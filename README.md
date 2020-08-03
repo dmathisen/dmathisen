@@ -1,5 +1,5 @@
 
-## Hello, I'm Dan Mathisen - a full-stack web application developer.
+## I'm Dan Mathisen, a full-stack web application developer.
 
 **Check out my portfolio at [danmathisen.com](https://danmathisen.com/)**
 
