@@ -21,7 +21,7 @@
 
 ---
 
-### Tech Stack:
+### Tech stack:
 - **Languages:** HTML, CSS, Javascript/Typescript, PHP, C# .NET, SQL, MongoDB, GraphQL
 - **Libraries, etc:** Node, React, Redux, Webpack, Sass/Less, Wordpress
 - **Design:** UI/UX, Responsive design, Photoshop/Illustrator
