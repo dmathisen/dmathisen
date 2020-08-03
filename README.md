@@ -1,7 +1,7 @@
 
 ## I'm Dan Mathisen, a full-stack web application developer.
 
-**Check out my portfolio at [danmathisen.com](https://danmathisen.com/)**
+**Check out my portfolio at [danmathisen.com](https://danmathisen.com/).**
 
 ### Find me:
 - [My Portfolio](https://danmathisen.com/)
