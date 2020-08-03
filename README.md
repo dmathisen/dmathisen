@@ -71,7 +71,7 @@ Check out my portfolio at [danmathisen.com](https://danmathisen.com/)
     - Website: [lightbase.danmathisen.com](https://lightbase.danmathisen.com/)
     - Repo: [github.com/dmathisen/LightbaseCSS](https://github.com/dmathisen/LightbaseCSS)
 
-### Misc websites:
+### Misc websites I've worked on:
 - [Hoboken Brewing Company](https://hobokenbrewing.beer/)
 - [Dr. OZ](https://www.doctoroz.com/)
 - [MIT - Management Executive Education](https://executive.mit.edu/)
