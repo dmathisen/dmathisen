@@ -3,12 +3,16 @@
 
 Check out my portfolio at [danmathisen.com](https://danmathisen.com/)
 
+---
+    
 ### What I enjoy:
 - Designing and building things
 - Working with current technologies (React is my most recent favorite)
 - Focusing on UI and UX
 - Family & friends
 - Concerts (RIP 😢)
+
+---
 
 ### Find me:
 - [My Portfolio](https://danmathisen.com/)
@@ -17,10 +21,14 @@ Check out my portfolio at [danmathisen.com](https://danmathisen.com/)
 - [Stack Overflow](https://stackoverflow.com/users/1308734/dmathisen)
 - [Twitter](https://twitter.com/dmathisen36)
 
+---
+
 ### Tech Stack:
 - **Languages:** HTML, CSS, Javascript/Typescript, PHP, C# .NET, SQL, MongoDB, GraphQL
 - **Libraries, etc:** Node, React, Redux, Webpack, Sass/Less, Wordpress
 - **Design:** UI/UX, Responsive design, Photoshop/Illustrator
+
+---
 
 ### Projects:
 * **My portfolio**
@@ -70,6 +78,8 @@ Check out my portfolio at [danmathisen.com](https://danmathisen.com/)
     - CSS
     - Website: [lightbase.danmathisen.com](https://lightbase.danmathisen.com/)
     - Repo: [github.com/dmathisen/LightbaseCSS](https://github.com/dmathisen/LightbaseCSS)
+
+---
 
 ### Misc websites I've worked on:
 - [Hoboken Brewing Company](https://hobokenbrewing.beer/)
