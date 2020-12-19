@@ -38,16 +38,15 @@
     - Co-founder of organization that hosted social events, all proceeds of which were donated to local charities
     - PHP, SQL, Design (created logo, business cards, marketing materials), Admin backend
     - Website: [pintmeisters.com](https://pintmeisters.com/)
-* **WhoWeUse**
-    - A startup I've helped build out that connects people to local businesses
-    - Node, Javascript, PHP, MongoDB
-    - Website: [whoweuse.com](https://whoweuse.com/)
-* **Speffer**
-    - Set up personalized search engine results
-    - Created to learn React & Next.js
-    - Node, React (Next.js)
-    - Website: [speffer.danmathisen.com](https://speffer.danmathisen.com/)
-    - Repo: [github.com/dmathisen/Speffer](https://github.com/dmathisen/activity-finder)
+* **Hoboken Brewing**
+    - Wordpress website site for a local brewery
+    - Wordpress, WooCommerce store, Location finder
+    - Website: [hobokenbrewing.beer](https://hobokenbrewing.beer/)
+* **Alex Eating Pancakes**
+    - Silly website I built to help facilitate a pancake eating contest
+    - Website included live-streamed event and real-time progress tracking (updated via admin screen)
+    - HTML, PHP, SQL, Admin backend
+    - Website: [alexeatingpancakes.com](https://alexeatingpancakes.com/)
 * **Activity Finder**
     - Find an activity for when you're bored
     - Created to practice React, calling external APIs
@@ -60,11 +59,16 @@
     - Node, React
     - Website: [budgetplanner.danmathisen.com](https://budgetplanner.danmathisen.com/)
     - Repo: [github.com/dmathisen/BudgetPlanner](https://github.com/dmathisen/BudgetPlanner)
-* **Alex Eating Pancakes**
-    - Silly website I built to help facilitate a pancake eating contest
-    - Website included live-streamed event and real-time progress tracking (updated via admin screen)
-    - HTML, PHP, SQL, Admin backend
-    - Website: [alexeatingpancakes.com](https://alexeatingpancakes.com/)
+* **Speffer**
+    - Set up personalized search engine results
+    - Created to learn React & Next.js
+    - Node, React (Next.js)
+    - Website: [speffer.danmathisen.com](https://speffer.danmathisen.com/)
+    - Repo: [github.com/dmathisen/Speffer](https://github.com/dmathisen/activity-finder)
+* **WhoWeUse**
+    - A startup I've helped build out that connects people to local businesses
+    - Node, Javascript, PHP, MongoDB
+    - Website: [whoweuse.com](https://whoweuse.com/)
 * **HitArea.js**
     - Apply a 'Hit Area' to any element
     - Created to learn how to make jQuery plugins
