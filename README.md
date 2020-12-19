@@ -89,7 +89,6 @@
 ---
 
 ### Misc websites I've worked on:
-- [Hoboken Brewing Company](https://hobokenbrewing.beer/)
 - [Dr. OZ](https://www.doctoroz.com/)
 - [MIT - Management Executive Education](https://executive.mit.edu/)
 - [Barnes & Noble - B&N Reads](https://www.barnesandnoble.com/blog/category/interviews/)
