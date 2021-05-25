@@ -9,6 +9,7 @@
 - [LinkedIn](https://www.linkedin.com/in/danmathisen/)
 - [Stack Overflow](https://stackoverflow.com/users/1308734/dmathisen)
 - [Twitter](https://twitter.com/dmathisen36)
+- [Reddit](https://www.reddit.com/user/SoBoredAtWork)
 
 ---
     
