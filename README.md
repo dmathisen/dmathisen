@@ -58,12 +58,6 @@
     - Node, React
     - Website: [activityfinder.danmathisen.com](http://activityfinder.danmathisen.com/)
     - Repo: [github.com/dmathisen/ActivityFinder](https://github.com/dmathisen/ActivityFinder)
-* **Budget Planner**
-    - Simple paycheck contribution budget planner
-    - Created to practice React, implements Google OAuth login
-    - Node, React
-    - Website: [budgetplanner.danmathisen.com](http://budgetplanner.danmathisen.com/)
-    - Repo: [github.com/dmathisen/BudgetPlanner](https://github.com/dmathisen/BudgetPlanner)
 * **Speffer**
     - Set up personalized search engine results
     - Created to learn React & Next.js
