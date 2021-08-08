@@ -56,19 +56,19 @@
     - Find an activity for when you're bored
     - Created to practice React, calling external APIs
     - Node, React
-    - Website: [activityfinder.danmathisen.com](https://activityfinder.danmathisen.com/)
+    - Website: [activityfinder.danmathisen.com](http://activityfinder.danmathisen.com/)
     - Repo: [github.com/dmathisen/ActivityFinder](https://github.com/dmathisen/ActivityFinder)
 * **Budget Planner**
     - Simple paycheck contribution budget planner
     - Created to practice React, implements Google OAuth login
     - Node, React
-    - Website: [budgetplanner.danmathisen.com](https://budgetplanner.danmathisen.com/)
+    - Website: [budgetplanner.danmathisen.com](http://budgetplanner.danmathisen.com/)
     - Repo: [github.com/dmathisen/BudgetPlanner](https://github.com/dmathisen/BudgetPlanner)
 * **Speffer**
     - Set up personalized search engine results
     - Created to learn React & Next.js
     - Node, React (Next.js)
-    - Website: [speffer.danmathisen.com](https://speffer.danmathisen.com/)
+    - Website: [speffer.danmathisen.com](http://speffer.danmathisen.com/)
     - Repo: [github.com/dmathisen/Speffer](https://github.com/dmathisen/activity-finder)
 * **WhoWeUse**
     - A startup I've helped build out that connects people to local businesses
