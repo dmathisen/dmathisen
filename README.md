@@ -72,13 +72,13 @@
     - Apply a 'Hit Area' to any element
     - Created to learn how to make jQuery plugins
     - Javascript (jQuery)
-    - Website: [hitarea.danmathisen.com](https://hitarea.danmathisen.com/)
+    - Website: [hitarea.danmathisen.com](http://hitarea.danmathisen.com/)
     - Repo: [github.com/dmathisen/HitAreaJS](https://github.com/dmathisen/HitAreaJS)
 * **Lightbase CSS**
     - Lightweight %-based responsive CSS framework, allowing for CSS grids with IE7+ support
     - Created before the times Bootstrap (this thing is VERY old)
     - CSS
-    - Website: [lightbase.danmathisen.com](https://lightbase.danmathisen.com/)
+    - Website: [lightbase.danmathisen.com](http://lightbase.danmathisen.com/)
     - Repo: [github.com/dmathisen/LightbaseCSS](https://github.com/dmathisen/LightbaseCSS)
 
 ---
