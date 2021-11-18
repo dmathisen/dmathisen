@@ -47,16 +47,15 @@
     - Silly website I built to help facilitate a pancake eating contest
     - Website included live-streamed event and real-time progress tracking (updated via admin screen)
     - HTML, PHP, SQL, Admin backend
-    - Website: [alexeatingpancakes.com](https://alexeatingpancakes.com/)
+    - Website: [alexeatingpancakes.danmathisen.com](https://alexeatingpancakes.com/)
 * **Unsheltered Voice**
     - Wordpress website site for a non-profit
     - Wordpress, Custom PHP, Custom user profiles, Donation capability
-    - Website: [unshelteredvoice.org](https://unshelteredvoice.org//)
+    - Website: [unshelteredvoice.danmathisen.com](https://unshelteredvoice.org//)
 * **Activity Finder**
     - Find an activity for when you're bored
     - Created to practice React, calling external APIs
     - Node, React
-    - Website: [activityfinder.danmathisen.com](http://activityfinder.danmathisen.com/)
     - Repo: [github.com/dmathisen/ActivityFinder](https://github.com/dmathisen/ActivityFinder)
 * **Speffer**
     - Set up personalized search engine results
