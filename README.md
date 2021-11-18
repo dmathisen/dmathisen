@@ -47,11 +47,11 @@
     - Silly website I built to help facilitate a pancake eating contest
     - Website included live-streamed event and real-time progress tracking (updated via admin screen)
     - HTML, PHP, SQL, Admin backend
-    - Website: [alexeatingpancakes.danmathisen.com](https://alexeatingpancakes.com/)
+    - Website: [alexeatingpancakes.com](https://alexeatingpancakes.danmathisen.com/)
 * **Unsheltered Voice**
     - Wordpress website site for a non-profit
     - Wordpress, Custom PHP, Custom user profiles, Donation capability
-    - Website: [unshelteredvoice.danmathisen.com](https://unshelteredvoice.org//)
+    - Website: [unshelteredvoice.org](https://unshelteredvoice.danmathisen.com/)
 * **Activity Finder**
     - Find an activity for when you're bored
     - Created to practice React, calling external APIs
@@ -61,23 +61,22 @@
     - Set up personalized search engine results
     - Created to learn React & Next.js
     - Node, React (Next.js)
-    - Website: [speffer.danmathisen.com](http://speffer.danmathisen.com/)
+    - Website: [speffer.com](http://speffer.danmathisen.com/)
     - Repo: [github.com/dmathisen/Speffer](https://github.com/dmathisen/activity-finder)
 * **WhoWeUse**
     - A startup I've helped build out that connects people to local businesses
     - Node, Javascript, PHP, MongoDB
-    - Website: [whoweuse.com](https://whoweuse.com/)
 * **HitArea.js**
     - Apply a 'Hit Area' to any element
     - Created to learn how to make jQuery plugins
     - Javascript (jQuery)
-    - Website: [hitarea.danmathisen.com](http://hitarea.danmathisen.com/)
+    - Website: [hitarea.com](http://hitarea.danmathisen.com/)
     - Repo: [github.com/dmathisen/HitAreaJS](https://github.com/dmathisen/HitAreaJS)
 * **Lightbase CSS**
     - Lightweight %-based responsive CSS framework, allowing for CSS grids with IE7+ support
     - Created before the times Bootstrap (this thing is VERY old)
     - CSS
-    - Website: [lightbase.danmathisen.com](http://lightbase.danmathisen.com/)
+    - Website: [lightbase.com](http://lightbase.danmathisen.com/)
     - Repo: [github.com/dmathisen/LightbaseCSS](https://github.com/dmathisen/LightbaseCSS)
 
 ---
