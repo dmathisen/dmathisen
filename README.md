@@ -18,7 +18,6 @@
 - Working with the latest technologies (React is my most recent favorite)
 - Focusing on UI and UX
 - Family & friends
-- Concerts (RIP 😢)
 
 ---
 
