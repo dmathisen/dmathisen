@@ -14,9 +14,9 @@
 ---
     
 ### I enjoy:
-- Designing and building websites and applications
-- Working with the latest technologies (React is my most recent favorite)
-- Focusing on UI and UX
+- Designing and building web applications
+- Learning new things, usually related to tech
+- Building things, also usually related to tech
 - Family & friends
 
 ---
