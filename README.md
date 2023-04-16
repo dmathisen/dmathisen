@@ -16,7 +16,7 @@
 ### I enjoy:
 - Designing and building web applications
 - Learning new things, usually related to tech
-- Building things, also usually related to tech
+- Building new things, also usually related to tech
 - Family & friends
 
 ---
